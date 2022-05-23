@@ -1,0 +1,28 @@
+----------------------------------------------------
+    Learn TypeScript with The Net Ninja Tutorial
+----------------------------------------------------
+
+1- Introduction
+   For more informations, please check those links bellow
+   https://mobiskill.fr/blog/conseils-emploi-tech/pourquoi-utiliser-typescript-plutot-que-javascript/
+   https://www.typescriptlang.org/fr/
+
+   TypeScript est un langage de prgrammation fortement typé qui s'appuie sur javascript, vous offrant 
+   de meilleurs outils à n'importe quelle échelle.
+
+   - TypeScript is superset of JavaScript that compiles to clean JavaScript output.
+   - Allows us to use strict types
+   - Support modern features such as arrows, let, const,...
+   - Add some extra features (generics, interfaces, tuples,...)
+
+2- Installation: 
+   First of all, we need to install it globally on our computer.
+   > npm install -g typesript 
+
+3- Compiling TypeScript:
+   run the command bellow to compile typeScript file.
+   > tsc file.ts -w (to watch)
+
+4- Different type that we can use with typeScript:
+
+   
